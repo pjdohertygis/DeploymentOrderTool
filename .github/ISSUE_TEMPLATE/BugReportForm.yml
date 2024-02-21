@@ -19,6 +19,7 @@ body:
         - Dashboards
         - Intel Manager 1.0 (Web AppBuilder)
         - Intel Manager 2.0 (Experience Builder)
+        - Deployment Order Tool 2.0
         - Other
   - type: textarea
     id: device
