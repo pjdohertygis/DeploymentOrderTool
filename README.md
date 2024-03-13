@@ -17,6 +17,6 @@ See geoprocessing script under files (coming soon) for more information.
 # Frontend - How Does It Work? 
 Web Map https://www.arcgis.com/home/item.html?id=3f0ef15c7ca647c1a43ec47927c6684b
 
-Web Mapping Application https://experience.arcgis.com/experience/9c74a78957d24994af8536ce1015f197
-
+Web Mapping Application (Builder) [https://experience.arcgis.com/experience/9c74a78957d24994af8536ce1015f197
+](https://experience.arcgis.com/builder/?id=9c74a78957d24994af8536ce1015f197)https://experience.arcgis.com/builder/?id=9c74a78957d24994af8536ce1015f197
 
