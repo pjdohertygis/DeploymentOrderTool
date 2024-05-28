@@ -12,7 +12,7 @@ To provide a simplified end user process with rapid results, we pre-calculated t
 
 ![image](https://github.com/pjdohertygis/DeploymentOrderTool/assets/4256979/05f83501-90c7-41b4-849e-a4af7a510ee1)
 
-See geoprocessing script under files (coming soon) for more information.
+See ArcGIS Pro Project with scripts, data, and documentation here: (COMING SOON)
 
 # Frontend - How Does It Work? 
 Web Map https://www.arcgis.com/home/item.html?id=3f0ef15c7ca647c1a43ec47927c6684b
