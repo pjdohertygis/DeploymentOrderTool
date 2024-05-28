@@ -14,9 +14,17 @@ To provide a simplified end user process with rapid results, we pre-calculated t
 
 See ArcGIS Pro Project with scripts, data, and documentation here: (COMING SOON)
 
+These are powered by ArcGIS Pro Tasks and python scripts. 
+![image](https://github.com/pjdohertygis/DeploymentOrderTool/assets/4256979/3512df6b-f809-4619-9db9-2fe66d4f6432)
+
+![image](https://github.com/pjdohertygis/DeploymentOrderTool/assets/4256979/6ccddac6-f56d-4f1e-8ecf-82562aa2f375)
+
+
 # Frontend - How Does It Work? 
 Web Map https://www.arcgis.com/home/item.html?id=3f0ef15c7ca647c1a43ec47927c6684b
 
 Web Mapping Application (Builder) [https://experience.arcgis.com/experience/9c74a78957d24994af8536ce1015f197
 ](https://experience.arcgis.com/builder/?id=9c74a78957d24994af8536ce1015f197)https://experience.arcgis.com/builder/?id=9c74a78957d24994af8536ce1015f197
+
+See GitHub Wiki for documentation on how the layers, web maps, and apps are configured. https://github.com/pjdohertygis/DeploymentOrderTool/wiki
 
