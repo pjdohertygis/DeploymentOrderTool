@@ -14,7 +14,7 @@ To provide a simplified end user process with rapid results, we pre-calculated t
 
 See ArcGIS Pro Project with scripts, data, and documentation here: (COMING SOON)
 
-These are powered by ArcGIS Pro Tasks and python scripts. 
+Preview of the ArcGIS Pro Tasks and ArcGIS Toolbox / scripts. 
 
 ![image](https://github.com/pjdohertygis/DeploymentOrderTool/assets/4256979/3512df6b-f809-4619-9db9-2fe66d4f6432)
 
