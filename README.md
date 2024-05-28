@@ -12,7 +12,7 @@ To provide a simplified end user process with rapid results, we pre-calculated t
 
 ![image](https://github.com/pjdohertygis/DeploymentOrderTool/assets/4256979/05f83501-90c7-41b4-849e-a4af7a510ee1)
 
-See ArcGIS Pro Project with scripts, data, and documentation here: (COMING SOON)
+See ArcGIS Pro Project with scripts, data, and documentation here: https://arcgis.com/home/item.html?id=1d0ec3e5e6e8496ba22e4d3ba20f94a4 
 
 Preview of the ArcGIS Pro Tasks and ArcGIS Toolbox / scripts. 
 
